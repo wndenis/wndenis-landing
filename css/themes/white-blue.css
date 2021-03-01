@@ -10,11 +10,13 @@ main {
 }
 
 .icons-social a {
-	color: #0277BD;
+/* 	color: #0277BD; */
+	color: #0F0F0F;
 }
 
 .icons-social a svg path{
-	fill: #0277BD;
+/* 	fill: #0277BD; */
+	fill: #0F0F0F;
 }
 
 @keyframes gradientBG {
