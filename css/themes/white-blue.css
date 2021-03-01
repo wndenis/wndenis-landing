@@ -1,10 +1,8 @@
 /* Theme */
 
 main {
-/* 	background: #FAFAFA; */
 /* 	color: #0277BD; */
-/* 	color: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); */
-	background: linear-gradient(-45deg, #ee9b52, #e73cbe, #23bfd5, #3a23d5);
+	background: linear-gradient(-45deg, #e73c3c, #df3ce7, #23b9d5, #2365d5);
 	background-size: 400% 400%;
 	animation: gradientBG 15s ease infinite;
 }
